@@ -1,3 +1,5 @@
 Hey this is the demo file i should have created but i created demo1.txt but oh well...
 i'm making changes locally now - will this show up on the gh server?
 wow yes the changes made it! (typed on the server)
+holy shit this is incredible! (typed locally)
+i shoulda been using this for TS! oh wait can i?  maybe by transferring text files out of the TDE
